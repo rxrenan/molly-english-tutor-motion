@@ -1,0 +1,25 @@
+{
+  "name": "molly-english-tutor-motion",
+  "version": "1.0.0",
+  "description": "Motion case (Remotion) da tutora de inglês Molly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "dependencies": {
+    "@react-three/fiber": "8.18.0",
+    "@remotion/cli": "^4.0.538",
+    "@remotion/three": "4.0.538",
+    "@types/react": "^18.3.31",
+    "@types/three": "0.169.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.538",
+    "three": "0.169.0",
+    "typescript": "^7.0.2"
+  }
+}

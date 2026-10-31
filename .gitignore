@@ -1,0 +1,13 @@
+node_modules/
+out/
+build/
+dist/
+.cache/
+.remotion/
+*.log
+.env
+.env.*
+*.pem
+*.key
+secrets/
+.DS_Store
