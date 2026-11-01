@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/readme-banner.png" alt="Molly, tutora de voz de inglês" width="100%"></p>
+
 # Molly — tutora de inglês por voz (motion case)
 
 > **English summary:** 20-second vertical (1080x1920) motion piece made with Remotion telling the case of *Molly*, Renan Rosa's personal English voice tutor: an ElevenLabs Conversational AI tutor, transcripts bridged twice a day by Grok Bot to a gamified teacher agent (lessons, quizzes, XP, streaks — Duolingo-style). This repo holds the final video, the Remotion source, the brief/style guide/shotlist, the review artifacts from each production gate and the case write-up, so anyone can reproduce or adapt it.
